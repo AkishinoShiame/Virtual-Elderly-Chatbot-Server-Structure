@@ -30,3 +30,11 @@ That's it.
 
 
 Also please included my paper if you uses this system. I'll wrote it later on this file.
+
+## 2019.07.02
+
+Change Log
+
+Update some scripts for enable support on NVidia DIGITS 6.1.1 & other libs update.
+
+Will Set as first Release.
