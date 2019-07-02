@@ -30,4 +30,4 @@ def wav2sep(filename):
     subplots_adjust(top=1)
     subplots_adjust(right=1)
     subplots_adjust(left=0)
-    plt.savefig('test.jpg')
+    plt.savefig('test.png')

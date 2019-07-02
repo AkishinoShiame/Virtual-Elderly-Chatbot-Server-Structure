@@ -18,7 +18,7 @@ import numpy as np
 import json
 from chatbot import chatbot
 AkishinoProjectBot = chatbot.Chatbot()
-AkishinoProjectBot.main(['--modelTag', 'taiwa20170709', '--test', 'daemon'])
+AkishinoProjectBot.main(['--modelTag', 'taiwa20170709', '--test', 'daemon', '--initEmbeddings', '--embeddingSource=wiki.zh.bin'])
 
 
 app = Flask(__name__)
