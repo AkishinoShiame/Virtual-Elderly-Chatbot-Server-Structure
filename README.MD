@@ -29,7 +29,16 @@ That's it.
 
 
 
-Also please included my paper if you uses this system. I'll wrote it later on this file.
+Also please included my paper if you uses this system.
+
+Lee, M. C., Yeh, S. C., Chiu, S. Y., & Chang, J. W. (2017, June). [A Deep Convolutional Neural Network Based Virtual Elderly Companion Agent.](http://dl.acm.org/citation.cfm?id=3083220)
+
+```
+Ming Che Lee, Sheng Cheng Yeh, Sheng Yu Chiu, Jia Wei Chang.
+ "A Deep Convolutional Neural Network Based Virtual Elderly Companion Agent",
+ MMSys'17 Proceedings of the 8th ACM on Multimedia Systems Conference,
+ Pages 235-238, June 20 - 23, 2017, Taipei, Taiwan. (EI, SIGMM, accept rate: 28%)
+```
 
 ## 2019.07.02
 
@@ -38,3 +47,5 @@ Change Log
 Update some scripts for enable support on NVidia DIGITS 6.1.1 & other libs update.
 
 Will Set as first Release.
+
+Also Facebook FastText has been move to [here](https://fasttext.cc/docs/en/pretrained-vectors.html) by Official.
