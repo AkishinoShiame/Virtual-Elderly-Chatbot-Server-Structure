@@ -49,3 +49,5 @@ Update some scripts for enable support on NVidia DIGITS 6.1.1 & other libs updat
 Will Set as first Release.
 
 Also Facebook FastText has been move to [here](https://fasttext.cc/docs/en/pretrained-vectors.html) by Official.
+
+For any install &| use instruction please check for the docs in [parent dir](https://github.com/AkishinoShiame/Graduated-Project#release-note). 
